@@ -1,5 +1,5 @@
 var expect = require('chai').expect;
-var Bounds = require('../lib/Bounds');
+var Bounds = require('../').Bounds;
 
 describe('Bounds', function() {
   describe('#chai', function() {
