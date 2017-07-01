@@ -5,8 +5,9 @@ as I love the name of the folde I am saving this work done in April 2016 without
 
 ## prerequisistes
 node !
-? $ npm install -g grunt-cli
 
 ## usage
-$ npm install
-$ npm test
+
+`$ npm install`
+
+`$ npm test`
